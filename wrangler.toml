@@ -1,0 +1,11 @@
+name = "rolldorado-login-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldorado-login.com.gr"
+HMAC_KEY = "2cdc47bc0a13ed9b27a17168e22c8161ad2c1c2ca9ab61512da79c65ebbd1773"
+COOKIE_NAME = "rd6"
+PLAY_PATH = "join-now"
+BUTTON_ID = "pff2eb054fc71bf07f02fc9acbbce6bed"
+GATE_SALT = "5468aa731de0034c"
